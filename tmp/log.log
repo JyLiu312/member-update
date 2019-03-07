@@ -1,0 +1,152 @@
+2019-03-07 11:54:23,097 INFO: Starting Updater
+2019-03-07 11:59:05,691 INFO: Starting Updater
+2019-03-07 11:59:05,717 ERROR: Failed to connect org HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /orgs/moodyssharedservices (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x037B2D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2019-03-07 12:00:01,365 INFO: Starting Updater
+2019-03-07 12:01:58,313 INFO: Starting Updater
+2019-03-07 12:03:08,513 INFO: Starting Updater
+2019-03-07 12:03:08,725 INFO: <github.PaginatedList.PaginatedList object at 0x037F8D50>
+2019-03-07 12:04:50,409 INFO: Starting Updater
+2019-03-07 12:05:52,880 INFO: Starting Updater
+2019-03-07 12:06:18,916 INFO: Starting Updater
+2019-03-07 12:06:33,482 INFO: Starting Updater
+2019-03-07 12:09:07,875 INFO: Starting Updater
+2019-03-07 12:09:47,922 INFO: Starting Updater
+2019-03-07 12:11:00,673 INFO: Starting Updater
+2019-03-07 12:12:05,718 INFO: Starting Updater
+2019-03-07 12:12:05,929 INFO: Organization(login="moodyssharedservices")
+2019-03-07 12:12:05,930 INFO: <github.PaginatedList.PaginatedList object at 0x037F8E10>
+2019-03-07 12:14:55,463 INFO: Starting Updater
+2019-03-07 12:14:56,016 INFO: Organization(login="moodyssharedservices")
+2019-03-07 12:14:56,324 INFO: ['JyLiu312']
+2019-03-07 12:17:37,696 INFO: Starting Updater
+2019-03-07 12:17:37,903 INFO: Organization(login="moodyssharedservices")
+2019-03-07 12:17:38,081 INFO: ['JyLiu312']
+2019-03-07 12:17:40,364 INFO: Member christhomas16 has been added to the team 3139517
+2019-03-07 12:17:40,782 INFO: Member everyonecodesnoonequits has been added to the team 3139517
+2019-03-07 12:17:41,096 INFO: Member georgekurian has been added to the team 3139517
+2019-03-07 12:17:42,368 INFO: Member gustavoortegamoodys has been added to the team 3139517
+2019-03-07 12:17:42,855 INFO: Member jonathanbaier has been added to the team 3139517
+2019-03-07 12:17:43,175 INFO: Member NuttyNuti has been added to the team 3139517
+2019-03-07 12:17:46,890 INFO: Member patrickminze has been added to the team 3139517
+2019-03-07 12:17:46,890 INFO: Updater finished running
+2019-03-07 12:22:24,172 INFO: Starting Updater
+2019-03-07 12:22:24,893 INFO: Organization(login="moodyssharedservices")
+2019-03-07 12:22:25,041 INFO: ['georgekurian', 'patrickminze', 'NuttyNuti', 'christhomas16', 'gustavoortegamoodys', 'JyLiu312', 'jonathanbaier', 'everyonecodesnoonequits']
+2019-03-07 12:22:25,133 INFO: Updater finished running
+2019-03-07 12:26:55,705 INFO: Starting Updater
+2019-03-07 12:26:55,970 INFO: Organization(login="moodysanalytics")
+2019-03-07 12:26:56,260 INFO: ['pallyndr', 'suriyanto', 'berryk', 'georgekurian', 'hginwala', 'christhomas16', 'cshaw-ma', 'abdulkareemmoodys', 'JyLiu312', 'Ken-Newbranch', 'frankcelia', 'MA-BlegenD']
+2019-03-07 12:26:56,729 INFO: Member akhilvaranasi has been added to the team 3027772
+2019-03-07 12:26:57,029 INFO: Member albertnanda has been added to the team 3027772
+2019-03-07 12:26:57,346 INFO: Member AndrewMatthews2019 has been added to the team 3027772
+2019-03-07 12:26:57,993 INFO: Member AndreyMatveyev has been added to the team 3027772
+2019-03-07 12:26:58,942 INFO: Member arivpre has been added to the team 3027772
+2019-03-07 12:26:59,507 INFO: Member bediarj has been added to the team 3027772
+2019-03-07 12:27:00,717 INFO: Member belorusv has been added to the team 3027772
+2019-03-07 12:27:01,038 INFO: Member bhagmri has been added to the team 3027772
+2019-03-07 12:27:02,069 INFO: Member chrismurray99 has been added to the team 3027772
+2019-03-07 12:27:02,730 INFO: Member ChristopheRompen has been added to the team 3027772
+2019-03-07 12:27:03,103 INFO: Member dasban has been added to the team 3027772
+2019-03-07 12:27:03,906 INFO: Member davidsoi has been added to the team 3027772
+2019-03-07 12:27:04,304 INFO: Member Dev-Nadeem7 has been added to the team 3027772
+2019-03-07 12:27:04,989 INFO: Member errajis has been added to the team 3027772
+2019-03-07 12:27:06,231 INFO: Member Felflare has been added to the team 3027772
+2019-03-07 12:27:06,488 INFO: Member gdzjuba has been added to the team 3027772
+2019-03-07 12:27:07,320 INFO: Member gillesfouarge has been added to the team 3027772
+2019-03-07 12:27:07,652 INFO: Member GobindaMishra has been added to the team 3027772
+2019-03-07 12:27:09,000 INFO: Member gustavoortegamoodys has been added to the team 3027772
+2019-03-07 12:27:09,418 INFO: Member hiten26 has been added to the team 3027772
+2019-03-07 12:27:09,917 INFO: Member Idris-Ahmed has been added to the team 3027772
+2019-03-07 12:27:10,266 INFO: Member Illymoh has been added to the team 3027772
+2019-03-07 12:27:10,532 INFO: Member ilsavma has been added to the team 3027772
+2019-03-07 12:27:11,035 INFO: Member invaderZym has been added to the team 3027772
+2019-03-07 12:27:11,406 INFO: Member jackieschwartz has been added to the team 3027772
+2019-03-07 12:27:13,328 INFO: Member jakewski has been added to the team 3027772
+2019-03-07 12:27:14,271 INFO: Member JamesR-moodys has been added to the team 3027772
+2019-03-07 12:27:14,651 INFO: Member jgray86 has been added to the team 3027772
+2019-03-07 12:27:16,119 INFO: Member jimagustin has been added to the team 3027772
+2019-03-07 12:27:16,434 INFO: Member john-barber has been added to the team 3027772
+2019-03-07 12:27:16,738 INFO: Member jvanore21 has been added to the team 3027772
+2019-03-07 12:27:17,259 INFO: Member kauskas has been added to the team 3027772
+2019-03-07 12:27:18,368 INFO: Member kenlam415 has been added to the team 3027772
+2019-03-07 12:27:18,701 INFO: Member kennelln has been added to the team 3027772
+2019-03-07 12:27:18,907 INFO: Member kevinpark0319 has been added to the team 3027772
+2019-03-07 12:27:20,451 INFO: Member koenplessers has been added to the team 3027772
+2019-03-07 12:27:20,815 INFO: Member krishnankuppaswamy has been added to the team 3027772
+2019-03-07 12:27:21,261 INFO: Member kunguken has been added to the team 3027772
+2019-03-07 12:27:21,706 INFO: Member Lakshitaa has been added to the team 3027772
+2019-03-07 12:27:22,369 INFO: Member lakshmimoodys has been added to the team 3027772
+2019-03-07 12:27:22,827 INFO: Member lewislammoodyscom has been added to the team 3027772
+2019-03-07 12:27:23,280 INFO: Member LisaTomko has been added to the team 3027772
+2019-03-07 12:27:23,650 INFO: Member LMarkham has been added to the team 3027772
+2019-03-07 12:27:24,349 INFO: Member ma-limb has been added to the team 3027772
+2019-03-07 12:27:24,865 INFO: Member malekhnovich has been added to the team 3027772
+2019-03-07 12:27:25,267 INFO: Member MariaBuitrago has been added to the team 3027772
+2019-03-07 12:27:26,579 INFO: Member maurnit has been added to the team 3027772
+2019-03-07 12:27:27,267 INFO: Member mcarnesma has been added to the team 3027772
+2019-03-07 12:27:27,565 INFO: Member mdyzhama has been added to the team 3027772
+2019-03-07 12:27:28,150 INFO: Member MeyerJ1 has been added to the team 3027772
+2019-03-07 12:27:28,748 INFO: Member mgershman has been added to the team 3027772
+2019-03-07 12:27:29,275 INFO: Member MichaelLangelez has been added to the team 3027772
+2019-03-07 12:27:29,604 INFO: Member mishankita has been added to the team 3027772
+2019-03-07 12:27:29,985 INFO: Member misterKai has been added to the team 3027772
+2019-03-07 12:27:30,425 INFO: Member moodyroto has been added to the team 3027772
+2019-03-07 12:27:31,207 INFO: Member moon-moodys has been added to the team 3027772
+2019-03-07 12:27:31,665 INFO: Member mukarav has been added to the team 3027772
+2019-03-07 12:27:32,341 INFO: Member nagendrm has been added to the team 3027772
+2019-03-07 12:27:32,670 INFO: Member NathanielSwartz has been added to the team 3027772
+2019-03-07 12:27:33,077 INFO: Member Nazeran has been added to the team 3027772
+2019-03-07 12:27:33,485 INFO: Member NishantMishra1 has been added to the team 3027772
+2019-03-07 12:27:33,843 INFO: Member Nithya-Ravi has been added to the team 3027772
+2019-03-07 12:27:34,276 INFO: Member NitzSharma has been added to the team 3027772
+2019-03-07 12:27:34,922 INFO: Member NuttyNuti has been added to the team 3027772
+2019-03-07 12:27:36,135 INFO: Member palanivg has been added to the team 3027772
+2019-03-07 12:27:38,069 INFO: Member pandeyshivani has been added to the team 3027772
+2019-03-07 12:27:38,791 INFO: Member ParseThis has been added to the team 3027772
+2019-03-07 12:27:39,401 INFO: Member PerdewA has been added to the team 3027772
+2019-03-07 12:27:39,873 INFO: Member petrovici-rafa has been added to the team 3027772
+2019-03-07 12:27:40,419 INFO: Member phanisarman has been added to the team 3027772
+2019-03-07 12:27:40,804 INFO: Member PittsBrenda has been added to the team 3027772
+2019-03-07 12:27:41,250 INFO: Member pratikshahmoodys has been added to the team 3027772
+2019-03-07 12:27:41,870 INFO: Member preetusingh has been added to the team 3027772
+2019-03-07 12:27:43,351 INFO: Member quiksand has been added to the team 3027772
+2019-03-07 12:27:43,903 INFO: Member ramabha has been added to the team 3027772
+2019-03-07 12:27:44,368 INFO: Member rameshtunga has been added to the team 3027772
+2019-03-07 12:27:44,832 INFO: Member ravimadhusudhan8 has been added to the team 3027772
+2019-03-07 12:27:45,405 INFO: Member rgweiss1 has been added to the team 3027772
+2019-03-07 12:27:45,822 INFO: Member rsweeziemoodys has been added to the team 3027772
+2019-03-07 12:27:46,583 INFO: Member rupenp has been added to the team 3027772
+2019-03-07 12:27:46,887 INFO: Member sachithanandhampalaniswamy has been added to the team 3027772
+2019-03-07 12:27:47,201 INFO: Member sandymccarron has been added to the team 3027772
+2019-03-07 12:27:47,499 INFO: Member shadsye has been added to the team 3027772
+2019-03-07 12:27:47,774 INFO: Member ShekharNathile has been added to the team 3027772
+2019-03-07 12:27:48,113 INFO: Member simifrancist has been added to the team 3027772
+2019-03-07 12:27:48,487 INFO: Member singhgur has been added to the team 3027772
+2019-03-07 12:27:49,048 INFO: Member singjit has been added to the team 3027772
+2019-03-07 12:27:49,457 INFO: Member SreeThirunagaru has been added to the team 3027772
+2019-03-07 12:27:51,652 INFO: Member srikkum has been added to the team 3027772
+2019-03-07 12:27:52,119 INFO: Member srikrishna7 has been added to the team 3027772
+2019-03-07 12:27:52,603 INFO: Member sylviabaek has been added to the team 3027772
+2019-03-07 12:27:52,947 INFO: Member tangellen has been added to the team 3027772
+2019-03-07 12:27:53,449 INFO: Member taylonr-moodys has been added to the team 3027772
+2019-03-07 12:27:54,034 INFO: Member tesfayea has been added to the team 3027772
+2019-03-07 12:27:54,623 INFO: Member thedacheng has been added to the team 3027772
+2019-03-07 12:27:55,272 INFO: Member Thejasbasavaiah has been added to the team 3027772
+2019-03-07 12:27:55,523 INFO: Member TimigenK has been added to the team 3027772
+2019-03-07 12:27:55,860 INFO: Member tiwavin has been added to the team 3027772
+2019-03-07 12:27:56,176 INFO: Member tliskey-moodys has been added to the team 3027772
+2019-03-07 12:27:56,488 INFO: Member tom-stones has been added to the team 3027772
+2019-03-07 12:27:57,113 INFO: Member tomcy has been added to the team 3027772
+2019-03-07 12:27:57,521 INFO: Member tonylootens has been added to the team 3027772
+2019-03-07 12:27:58,028 INFO: Member ullaskmr387 has been added to the team 3027772
+2019-03-07 12:27:58,503 INFO: Member vanores has been added to the team 3027772
+2019-03-07 12:27:58,893 INFO: Member varun7447 has been added to the team 3027772
+2019-03-07 12:27:59,316 INFO: Member vhr1975 has been added to the team 3027772
+2019-03-07 12:27:59,891 INFO: Member vihangshah8 has been added to the team 3027772
+2019-03-07 12:28:00,341 INFO: Member vipinmakode has been added to the team 3027772
+2019-03-07 12:28:01,731 INFO: Member ViratSarswat has been added to the team 3027772
+2019-03-07 12:28:03,059 INFO: Member vishal-patil has been added to the team 3027772
+2019-03-07 12:28:04,209 INFO: Member WasimKarim has been added to the team 3027772
+2019-03-07 12:28:04,486 INFO: Member yanshuo619 has been added to the team 3027772
+2019-03-07 12:28:04,792 INFO: Member zachescalante has been added to the team 3027772
+2019-03-07 12:28:04,792 INFO: Updater finished running
