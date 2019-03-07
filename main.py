@@ -19,8 +19,7 @@ Token =  # github access token
 g = Github(Token)
 
 logger = logging.getLogger(__name__)
-file_handler = RotatingFileHandler('./tmp/log', maxBytes=2000,
-                                   backupCount=10)
+file_handler = RotatingFileHandler('./tmp/log', maxBytes=2000, backupCount=10)
 file_handler.setFormatter(logging.Formatter('%(asctime)s %(levelname)s: %(message)s'
                           ))
 logger.addHandler(file_handler)
