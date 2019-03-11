@@ -9,8 +9,8 @@ from requests import ConnectionError
 from logging.handlers import RotatingFileHandler
 
 #credentials
-Org_name = 'moodysanalytics'
-Team_id = 3027772  # github employees team id
+Org_name = 'moodysanalytics' #'moodyssharedservices'
+Team_id = 3027772    #3139517(test repo)  # github employees team id
 Token = 'd4e9d219eaac1ae76e7a3eac00a585144d363c07' # github access token
 
 g = Github(Token)
