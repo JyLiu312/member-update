@@ -8,7 +8,7 @@ import argparse
 from requests import ConnectionError
 from logging.handlers import RotatingFileHandler
 
-Org_name = 'moodysanalytics'
+Org_name = #org name
 
 # When we use GitHub API need use team_id instead team_name
 
