@@ -12,7 +12,7 @@ Org_name = 'moodysanalytics'
 
 # When we use GitHub API need use team_id instead team_name
 
-Team_id = 3027772  # github employees team id
+Team_id =  # github employees team id
 
 Token =  # github access token
 
